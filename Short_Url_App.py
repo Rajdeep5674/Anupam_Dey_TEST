@@ -66,3 +66,6 @@ open_button.pack(pady=5)
 
 # Run the app
 root.mainloop()
+
+# this part is new
+print("welcome")
