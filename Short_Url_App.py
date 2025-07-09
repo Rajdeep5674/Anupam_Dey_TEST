@@ -71,7 +71,7 @@ root.mainloop()
 print("welcome")
 
 
-print("Rajdeep")
+print("RAJDEEP DAR PATHSHALA")
 
 
 print("RDP")
